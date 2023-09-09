@@ -31,7 +31,7 @@ export default defineNuxtConfig({
   intlify: {
     localeDir: 'locales',
     vueI18n: {
-      locale: 'zh-CN',
+      locale: 'en',
     },
   },
   vite: {
